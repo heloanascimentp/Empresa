@@ -5,8 +5,7 @@
 [introdução](#introdu%C3%A7%C3%A3o)  
 [funcionalidade](#funcionalidade)  
 [tecnologia utilizada](#tecnologia-utilizada)  
-[fontes consultadas](#fontes-consultadas)  
-[autores](#autores)  
+[Autora](#autora)  
 
 # projeto - Sistema de Salario de uma empresa 
 ## Descrição 
@@ -19,7 +18,7 @@ A Calculadora de Salário de Vendedor simplifica o cálculo do salário dos vend
 ## Funcionalidade
 A funcionalidade deste sistema é automatizar o processo de determinação do salário de um vendedor com base em suas metas de vendas, fornecendo ao usuário uma maneira rápida e precisa de calcular o salário final. Isso pode ser útil para empresas que desejam calcular os salários dos vendedores de forma eficiente e transparente, incentivando o alcance de metas e recompensando o desempenho.
 
-## Tecnologias utilizadas
+## Tecnologias utilizada
 Usei
 HTML 
 CSS
